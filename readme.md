@@ -1,5 +1,7 @@
 # Smashing 2019 Workshop
 
+**IMPORTANT:** before making changes to this branch, please coordinate with services so thay can prepare their example reports which are based off the `broken` branch of this application
+
 ## NOTE: This is the broken branch. It intentionally has a11y issues:
 
 - generic title (page info tool)
